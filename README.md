@@ -1,6 +1,18 @@
 # zzzColorChat
 WoW 1.12 Color Chat addon
 
+	Download available at: https://ufile.io/d38rn
+	
+	Instructions: 
+	
+	Download above zip-file or clone this repo.
+	Make sure the folder in \interface\addons is named \zzzColorChat
+	NOT \zzzColorChat-master
+	
+	Enjoy!
+	
+	
+	
 	Welcome to the amazing chatcolor changer for WoW private vanilla servers (1.12.x)
 
 	use /cchat <color> to change your chat color
